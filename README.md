@@ -1,4 +1,8 @@
 # Why the Future Needs Us
+
 ## Kenneth Corrales Lizano 2017151342
 
-Despues de leer el articulo de Bill Joy "Why the Future Doesn't Need Us" me parece muy interesante como las dudas de Joy siguen resonando en el dia de hoy 20 años en el futuro
+ Despues de leer el articulo de Bill Joy "Why the Future Doesn't Need Us" me parece muy interesante como las dudas de Joy siguen resonando en el dia de hoy 20 años en el futuro. Y es que su temor desde mi punto de vista se encuentra mas que bien fundamentado,y concuerdo en ciertos puntos muy especificos como el hecho de que las elites pueden llegar el sesgar la información y el acceso a la tecnologia y por ende pueden decidir la forma en la que se comporte la ciudadania. Por otra parte me parece que en otros temas como la robotica o la nanotecnologia, sus miedos pueden llegar a ser un poco mas exagerados.
+
+ Al leer este articulo en especial las menciones de Joy sobre el autoaprendizaje de los robots, me recordaba de la noticia del año 2017 acerca las 2 IAs Alice y Bob que utilizo Facebook para el estudio del machine learning enfocado a las ventas. (citar aqui) [link](https://www.elindependiente.com/futuro/2017/07/25/inteligencias-artificiales-crean-un-idioma-que-no-podemos-entender/).
+En como la gente se encontraba aterrada y la prensa sensacionalista expresaba sobre dos robots que habian empezado a comunicarse entre ellas y rebelandose habian creado su propio lenguaje. El motivo por el cual se decidio desconectar estas maquinas fue debido a que lo que se comunicaban entre ellas no era entendible para las personas, no aportaba nada mantenerlas en ejecucion 
