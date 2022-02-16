@@ -16,7 +16,7 @@ Sirva lo anterior para demostrar porque la explicación de Bill Joy puede en cie
 
 Ahora bien, luego de mencionar algunas de los temas mencionado por Joy en su artículo y él porque es mejor presidir de la tecnología, parece oportuno además de por el título, demostrar por que es importante y porque es necesario aportar conocimiento y avances en esta.
 
-Recordemos que la tecnología se puede definir, como una recopilación de conocimientos teóricos científicos traídos a la practica mediante la creación de instrumentos que puede mejorar o facilitar las acciones que realiza el ser humano (Real Academia Española, s.f., definición 3).
+Recordemos que la tecnología se puede definir, como una recopilación de conocimientos teóricos científicos traídos a la practica mediante la creación de instrumentos que puede mejorar o facilitar las acciones que realiza el ser humano (Real Academia Española, s.f., definición 1,4).
 
 Ahora bien, dicho esto podemos ver por definición la importancia que tiene la tecnología, pues viene a facilitarnos “la vida”, tomemos por ejemplo la nanotecnología mencionada por Joy en su artículo, gracias a los avances en esta esta rama se están creando instrumentos que son capaces de detectar de manera temprana la formación de células cancerígenas en el cuerpo humano, así como el tratamiento de este padecimiento (Cuevas B y Cueto J, 2018). Este es un claro ejemplo de un problema que afecta a millones de personas a nivel mundial y que gracias a estos avances tecnológicos existe una posibilidad de tratarlos y de mejorar la vida humana.
 
@@ -39,6 +39,8 @@ Es muy interesante y comparto la opinión de Joy al mencionar como los científi
 - Haber C. & Cueto J (2018). *Nanotecnología. Aplicaciones En Las Ciencias Biomédicas*. Recuperado de <http://morfovirtual2018.sld.cu/index.php/morfovirtual/2018/paper/viewPaper/346/416>
   
 - Joy B. (2000). Why the Future Doesn't Need Us. *Revista Wired*. Magazine-8.04. Recuperado de  <https://www.wired.com/2000/04/joy-2/>
+
+- Real Academia Española. (s.f.). Tecnología. En *Diccionario de la lengua española*. Recuperado de <https://dle.rae.es/tecnología>
   
 - Viciosa M. (2017, 25 de Julio). Inteligencias artificiales crean un idioma que no podemos entender. El independiente. Recuperado de: <https://www.elindependiente.com/futuro/2017/07/25/inteligencias-artificiales-crean-un-idioma-que-no-podemos-entender/>
  
